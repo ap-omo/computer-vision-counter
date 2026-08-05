@@ -3,6 +3,7 @@ Development of a computer vision system for counting objects of a certain colour
 
 # Requirements
 Python 3.12.11 64-bit
+
 opencv-contrib-python-5.0.0.93
 
 Ran on the latest version of Windows 10 using Spyder IDE 6.1.5
