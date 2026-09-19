@@ -5,6 +5,8 @@ Main script - .py
 
 Segmentation model - .onnx
 
+Project Report - .pdf
+
 # Requirements
 Python 3.12.11 64-bit
 
